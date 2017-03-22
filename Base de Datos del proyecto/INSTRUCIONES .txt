@@ -1,0 +1,3 @@
+CREE UNA CONSULTA Y EJECUTE EL CODIGO  DEL ARCHIVO >>>>>  Script_BD_Biblioteca
+EJECUTE EL CODIGO DE >>> Ingresos de datos 
+Ejecute  consultas con procedimientos almacenados  >>>Procedure de consultas
